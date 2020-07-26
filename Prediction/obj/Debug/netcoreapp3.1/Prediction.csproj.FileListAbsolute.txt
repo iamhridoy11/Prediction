@@ -1,0 +1,12 @@
+/Users/mostafizurrahman/Projects/Prediction/Prediction/bin/Debug/netcoreapp3.1/Prediction.deps.json
+/Users/mostafizurrahman/Projects/Prediction/Prediction/bin/Debug/netcoreapp3.1/Prediction.runtimeconfig.json
+/Users/mostafizurrahman/Projects/Prediction/Prediction/bin/Debug/netcoreapp3.1/Prediction.runtimeconfig.dev.json
+/Users/mostafizurrahman/Projects/Prediction/Prediction/bin/Debug/netcoreapp3.1/Prediction.dll
+/Users/mostafizurrahman/Projects/Prediction/Prediction/bin/Debug/netcoreapp3.1/Prediction.pdb
+/Users/mostafizurrahman/Projects/Prediction/Prediction/obj/Debug/netcoreapp3.1/Prediction.csprojAssemblyReference.cache
+/Users/mostafizurrahman/Projects/Prediction/Prediction/obj/Debug/netcoreapp3.1/Prediction.AssemblyInfoInputs.cache
+/Users/mostafizurrahman/Projects/Prediction/Prediction/obj/Debug/netcoreapp3.1/Prediction.AssemblyInfo.cs
+/Users/mostafizurrahman/Projects/Prediction/Prediction/obj/Debug/netcoreapp3.1/Prediction.csproj.CoreCompileInputs.cache
+/Users/mostafizurrahman/Projects/Prediction/Prediction/obj/Debug/netcoreapp3.1/Prediction.dll
+/Users/mostafizurrahman/Projects/Prediction/Prediction/obj/Debug/netcoreapp3.1/Prediction.pdb
+/Users/mostafizurrahman/Projects/Prediction/Prediction/obj/Debug/netcoreapp3.1/Prediction.genruntimeconfig.cache
